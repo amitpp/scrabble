@@ -1,4 +1,5 @@
-#Here we would describe what is happening.
+#Here Irsham would describe what is happening.
+#amit's version included
 class Scrabble
   def self.score(word)
     0
